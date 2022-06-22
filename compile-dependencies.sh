@@ -2,8 +2,7 @@
 
 set -e
 
-# Error if no wget
-# which -s wget || { echo "wget must be installed to use this script" && exit 1 }
+# Requires wget and bash > 4.0
 
 # Dependencies in the format "<name> <url>"
 # If you get an error on OS X, try `brew install bash` first
