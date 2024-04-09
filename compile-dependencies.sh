@@ -20,6 +20,7 @@ DEPENDENCIES=(
     [psycopg2-2.8.6]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_8_6.zip
     [psycopg2-2.9.3]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_9_3.zip
     [psycopg2-2.9.5]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_9_5.zip
+    [psycopg-3.1.18]=https://github.com/psycopg/psycopg/archive/refs/tags/3.1.18.zip
 )
 
 # Remove existing
