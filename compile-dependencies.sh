@@ -18,9 +18,11 @@ DEPENDENCIES=(
     [certifi-2022.12.7]=https://github.com/certifi/python-certifi/archive/refs/tags/2022.12.07.zip
     [certifi-2023.7.22]=https://github.com/certifi/python-certifi/archive/refs/tags/2023.07.22.zip
     [certifi-2024.7.4]=https://github.com/certifi/python-certifi/archive/refs/tags/2024.07.04.zip
+    [certifi-2024.8.30]=https://github.com/certifi/python-certifi/archive/refs/tags/2024.08.30.zip
     [psycopg2-2.8.6]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_8_6.zip
     [psycopg2-2.9.3]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_9_3.zip
     [psycopg2-2.9.5]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_9_5.zip
+    [psycopg2-2.9.10]=https://github.com/psycopg/psycopg2/archive/refs/tags/2.9.10.zip
     [psycopg-3.1.18]=https://github.com/psycopg/psycopg/archive/refs/tags/3.1.18.zip
 )
 
