@@ -10,6 +10,7 @@ declare -A DEPENDENCIES
 DEPENDENCIES=(
     [chardet-4.0.0]=https://github.com/chardet/chardet/archive/refs/tags/4.0.0.zip
     [chardet-5.0.0]=https://github.com/chardet/chardet/archive/refs/tags/5.0.0.zip
+    [chardet-5.2.0]=https://github.com/chardet/chardet/archive/refs/tags/5.2.0.zip
     [text-unidecode-1.3]=https://github.com/kmike/text-unidecode/archive/refs/tags/1.3.zip
     [certifi-2021.10.8]=https://github.com/certifi/python-certifi/archive/refs/tags/2021.10.08.zip
     [certifi-2022.5.18.1]=https://github.com/certifi/python-certifi/archive/refs/tags/2022.05.18.1.zip
@@ -20,11 +21,14 @@ DEPENDENCIES=(
     [certifi-2024.7.4]=https://github.com/certifi/python-certifi/archive/refs/tags/2024.07.04.zip
     [certifi-2024.8.30]=https://github.com/certifi/python-certifi/archive/refs/tags/2024.08.30.zip
     [certifi-2024.12.14]=https://github.com/certifi/python-certifi/archive/refs/tags/2024.12.14.zip
+    [certifi-2025.1.31]=https://github.com/certifi/python-certifi/archive/refs/tags/2025.01.31.zip
     [psycopg2-2.8.6]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_8_6.zip
     [psycopg2-2.9.3]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_9_3.zip
     [psycopg2-2.9.5]=https://github.com/psycopg/psycopg2/archive/refs/tags/2_9_5.zip
     [psycopg2-2.9.10]=https://github.com/psycopg/psycopg2/archive/refs/tags/2.9.10.zip
     [psycopg-3.1.18]=https://github.com/psycopg/psycopg/archive/refs/tags/3.1.18.zip
+    [psycopg-3.2.3]=https://github.com/psycopg/psycopg/archive/refs/tags/3.2.3.zip
+    [psycopg-3.2.4]=https://github.com/psycopg/psycopg/archive/refs/tags/3.2.4.zip
 )
 
 # Remove existing
