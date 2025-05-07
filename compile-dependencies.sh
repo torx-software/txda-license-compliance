@@ -29,6 +29,7 @@ DEPENDENCIES=(
     [psycopg-3.1.18]=https://github.com/psycopg/psycopg/archive/refs/tags/3.1.18.zip
     [psycopg-3.2.3]=https://github.com/psycopg/psycopg/archive/refs/tags/3.2.3.zip
     [psycopg-3.2.4]=https://github.com/psycopg/psycopg/archive/refs/tags/3.2.4.zip
+    [psycopg-3.2.7]=https://github.com/psycopg/psycopg/archive/refs/tags/3.2.7.zip
 )
 
 # Remove existing
